@@ -1,0 +1,68 @@
+4:277  1:754  Found UEFI Acpi 2.0 RSDP at 77FFD014
+4:277  0:000  Saving ACPI tables from RSDP 77FFD014 to EFI\CLOVER\ACPI\origin ...
+4:277  0:000   77FFD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+4:277  0:000    (Xsdt: 77FC4188, Rsdt: 77FC40C4)
+4:277  0:000    77FC4188: 'XSDT', 'CB-01   ', Rev: 1, Len: 252
+4:277  0:000    77FC40C4: 'RSDT', 'CB-01   ', Rev: 1, Len: 144
+4:277  0:000    Tables in Xsdt: 27
+4:277  0:000    0. 77FE9000: 'FACP', 'CB-01   ', Rev: 5, Len: 244
+4:277  0:000        (Dsdt: 77FC7000, Facs: 77F4E000, XDsdt: 77FC7000, XFacs: 0)
+4:277  0:000        77FC7000: 'DSDT', 'CB-01   ', Rev: 2, Len: 119620
+4:279  0:002        77F4E000: 'FACS', Ver: 2, Len: 64
+4:279  0:000    1. 77FFC000: 'TCPA', 'CB-01   ', Rev: 2, Len: 50
+4:279  0:000    2. 77FFB000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+4:279  0:000    3. 77FFA000: 'UEFI', 'CB-01   ', Rev: 1, Len: 66
+4:279  0:000    4. 77FF9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1207
+4:279  0:000    5. 77FF8000: 'SSDT', 'CB-01   ', Rev: 2, Len: 75
+4:279  0:000    6. 77FF7000: 'TPM2', 'CB-01   ', Rev: 3, Len: 52
+4:279  0:000    7. 77FF6000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+4:279  0:000    8. 77FF0000: 'SSDT', 'CB-01   ', Rev: 2, Len: 20740
+4:279  0:000    9. 77FEF000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+4:279  0:000    10. 77FEE000: 'DBG2', 'CB-01   ', Rev: 0, Len: 97
+4:279  0:000    11. 77FED000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1916
+4:279  0:000    12. 77FEC000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+4:279  0:000    13. 77FEB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+4:279  0:000    14. 77FEA000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+4:279  0:000    15. 77FE8000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+4:279  0:000    16. 77FE7000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+4:279  0:000    17. 77FE6000: 'APIC', 'CB-01   ', Rev: 3, Len: 188
+4:279  0:000    18. 77FE5000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+4:279  0:000    19. 77FC6000: 'SSDT', 'CB-01   ', Rev: 1, Len: 724
+4:279  0:000    20. 77FC5000: 'SSDT', 'CB-01   ', Rev: 2, Len: 410
+4:279  0:000    21. 77FC3000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1012
+4:279  0:000    22. 77FC2000: 'SSDT', 'CB-01   ', Rev: 2, Len: 3672
+4:279  0:000    23. 77FBD000: 'SSDT', 'NVOP    ', Rev: 1, Len: 17236
+4:279  0:000    24. 77FBC000: 'DMAR', 'CB-01   ', Rev: 1, Len: 168
+4:279  0:000    25. 77FBB000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+4:279  0:000    26. 77FBA000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+4:279  0:000    Tables in Rsdt: 27
+4:279  0:000    0. 77FE9000: 'FACP', 'CB-01   ', Rev: 5, Len: 244
+4:279  0:000        (Dsdt: 77FC7000, Facs: 77F4E000, XDsdt: 77FC7000, XFacs: 0)
+4:279  0:000        77FC7000: 'DSDT', 'CB-01   ', Rev: 2, Len: 119620
+4:281  0:002        77F4E000: 'FACS', Ver: 2, Len: 64
+4:281  0:000    1. 77FFC000: 'TCPA', 'CB-01   ', Rev: 2, Len: 50
+4:281  0:000    2. 77FFB000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+4:281  0:000    3. 77FFA000: 'UEFI', 'CB-01   ', Rev: 1, Len: 66
+4:281  0:000    4. 77FF9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1207
+4:281  0:000    5. 77FF8000: 'SSDT', 'CB-01   ', Rev: 2, Len: 75
+4:281  0:000    6. 77FF7000: 'TPM2', 'CB-01   ', Rev: 3, Len: 52
+4:281  0:000    7. 77FF6000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+4:281  0:000    8. 77FF0000: 'SSDT', 'CB-01   ', Rev: 2, Len: 20740
+4:281  0:000    9. 77FEF000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+4:281  0:000    10. 77FEE000: 'DBG2', 'CB-01   ', Rev: 0, Len: 97
+4:281  0:000    11. 77FED000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1916
+4:281  0:000    12. 77FEC000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+4:281  0:000    13. 77FEB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+4:281  0:000    14. 77FEA000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+4:281  0:000    15. 77FE8000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+4:281  0:000    16. 77FE7000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+4:281  0:000    17. 77FE6000: 'APIC', 'CB-01   ', Rev: 3, Len: 188
+4:281  0:000    18. 77FE5000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+4:281  0:000    19. 77FC6000: 'SSDT', 'CB-01   ', Rev: 1, Len: 724
+4:281  0:000    20. 77FC5000: 'SSDT', 'CB-01   ', Rev: 2, Len: 410
+4:281  0:000    21. 77FC3000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1012
+4:281  0:000    22. 77FC2000: 'SSDT', 'CB-01   ', Rev: 2, Len: 3672
+4:281  0:000    23. 77FBD000: 'SSDT', 'NVOP    ', Rev: 1, Len: 17236
+4:281  0:000    24. 77FBC000: 'DMAR', 'CB-01   ', Rev: 1, Len: 168
+4:281  0:000    25. 77FBB000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+4:281  0:000    26. 77FBA000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
